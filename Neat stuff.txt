@@ -1,0 +1,11 @@
+http://www.codeguru.com/cpp/g-m/opengl/openfaq/article.php/c10975__2/
+
+http://www.codeguru.com/cpp/g-m/opengl/
+
+http://steinsoft.net/index.php?site=Programming/Tutorials/opengl_dialog
+
+
+
+http://www.cs.mtu.edu/~shene/COURSES/cs3621/NOTES/spline/B-spline/bspline-basis.html
+
+http://www.cs.mtu.edu/~shene/COURSES/cs3621/NOTES/spline/de-Boor.html
