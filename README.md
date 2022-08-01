@@ -1,4 +1,4 @@
-# B-Spline to Bezier conversion
+# B-Spline to Bezier conversion (2007)
 
 The program reads and displays uniform and non-uniform B-Spline curves from the following file format:
 
